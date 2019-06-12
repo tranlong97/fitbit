@@ -1,0 +1,4 @@
+org\openhab\binding\fitbit\internal\FitbitHandlerFactory.class
+org\openhab\binding\fitbit\internal\FitbitHandler.class
+org\openhab\binding\fitbit\internal\FitbitConfiguration.class
+org\openhab\binding\fitbit\internal\FitbitBindingConstants.class
